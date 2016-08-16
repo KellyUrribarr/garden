@@ -1,0 +1,84 @@
+body {
+
+	background: url(../img/fotos-de-pokemon.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+h1 {
+
+	font-family: Arial;
+	font-weight: bold;
+	text-align: center;
+	color: #ffffff
+	
+}
+
+h2 {
+	font-family: Arial;
+	text-align: justify-all;
+	color: #ffffff;
+}
+
+.benefits h3 p {
+	font-family: Arial;
+	text-align: justify-all;
+	color: #ffffff;
+}
+.summary p {
+	
+	font-family: Arial;
+	font-size: 14px;
+	text-align: justify-all;
+    color: #ffffff
+}
+
+h3 {
+	font-family: Arial;
+	text-align: justify-all;
+	color: #ffffff;
+}
+
+.preamble p{
+     font-family: Arial;
+     font-family: 14px;
+     text-align: justify-all;
+     color: #ffffff;
+}
+
+.explanation {
+
+	font-family: Arial;
+	font-family: 14px;
+	text-align: justify-all;
+	color: #ffffff;
+}
+
+.participation p {
+
+    font-family: Arial;
+	font-family: 14px;
+	text-align: justify-all;
+	color: #ffffff
+
+}
+
+.requirements p {
+
+	font-family: Arial;
+	font-family: 14px;
+	text-align: justify-all;
+	color: #ffffff;
+}
+
+footer {
+
+	text-align: center;
+}
+
+footer a {
+	font-family: Arial;
+	color: #ffffff;
+}
+
