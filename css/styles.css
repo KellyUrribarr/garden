@@ -3,14 +3,14 @@ h1 {
 	font-family: Arial;
 	font-weight: bold;
 	text-align: center;
-	color: #060707;
+	color: #066671;
 
 }
 
 h2 {
 	font-family: Arial;
 	text-align: center;
-	color: #060707;
+	color: #066671;
 
 }
 
@@ -21,7 +21,7 @@ h3 {
 	font-size: 14px;
 	text-align: center;
     color: #ffffff;
-    background-color: #303538;
+    background-color: #06ac8b;
     width: 400px;
     margin: left;
 
@@ -38,6 +38,11 @@ h3 {
     margin: 0 auto;
 
 } 
+
+p a {
+	color: #066671;
+}
+
 
 
 .preamble {
@@ -125,6 +130,59 @@ h3 {
 
 }
 
+#design-selection {
+
+    width: 400px;
+	height: 400px;
+	border: 22px solid #ffffff;
+	font-family: Arial;
+	font-size: 14px;
+	text-align: center;
+    color: #1b232a;
+    background-color: #ffffff;
+    margin: auto;
+    text-align: justify;
+    border-radius: 5px;
+    display: inline-block;
+    float: left;
+
+}
+
+
+#design-archives {
+
+	width: 400px;
+	height: 400px;
+	border: 22px solid #ffffff;
+	font-family: Arial;
+	font-size: 14px;
+	text-align: center;
+    color: #1b232a;
+    background-color: #ffffff;
+    margin: auto;
+    text-align: justify;
+    border-radius: 5px;
+    display: inline-block;
+    float: left;
+}
+
+#zen-resources {
+    
+    width: 400px;
+	height: 400px;
+	border: 22px solid #ffffff;
+	font-family: Arial;
+	font-size: 14px;
+	text-align: center;
+    color: #1b232a;
+    background-color: #ffffff;
+    margin: auto;
+    text-align: justify;
+    border-radius: 5px;
+    display: inline-block;
+    float: right;
+
+}
 
 .requirements p {
 
@@ -186,14 +244,14 @@ footer a {
 
 .sidebar h3 {
    
-    background-color: #F38630;
+    
 	margin-bottom: 10px;
     border: 15px solid #ffffff;
 	font-family: Arial;
 	font-size: 14px;
 	text-align: center;
     color: #ffffff;
-    background-color: #303538;
+    background-color: #0b7d9e;
     width: 400px;
     margin: auto;
     float: center;
@@ -202,6 +260,7 @@ footer a {
 
 
 ul {
+    
 
 	width: 400px;
 	height: 100px;
@@ -209,11 +268,21 @@ ul {
 	font-family: Arial;
 	font-size: 14px;
 	text-align: center;
-    color: #1b232a;
+    color: #067163;
     background-color: #ffffff;
     margin: auto;
     text-align: justify;
     
+}
+
+
+
+#design-name a {
+
+    font-family: Arial;
+	font-size: 14px;
+	color:#066671;
+
 }
 
 
